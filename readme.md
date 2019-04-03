@@ -1,4 +1,4 @@
-### Computer security XSS cookies scrapper
+### Computer security. XSS cookies scrapper
 To run
 - `npm install`
 - `npm start`
